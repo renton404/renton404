@@ -1,2 +1,1 @@
-[!Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&duration=3500&pause=500&color=907AA9&background=FF3A1400&width=620&lines=%24+whoami;Muhammad+Al-Tarsha+;Software+Engineer+%7C+Fullstack+Developer+%7C+Tinkerer;cogito%2C+ergo+sum))
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&duration=3500&pause=500&color=907AA9&background=FF3A1400&width=620&lines=%24+whoami;Muhammad+Al-Tarsha+;Software+Engineer+%7C+Fullstack+Developer+%7C+Tinkerer;cogito%2C+ergo+sum)](https://git.io/typing-svg)
