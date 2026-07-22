@@ -11,7 +11,7 @@
 ### Backend:
 
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,bun,deno" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,bun,deno" alt="My Skills" />
 
 
 ### Databases: 
