@@ -24,4 +24,4 @@
 <img src="https://skillicons.dev/icons?i=linux,vim,bash,docker,nginx" alt="My Skills" />
 
 
-![GitHub Snake](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg)
+![GitHub Snake](https://github.com/renton404/renton404/blob/output/github-snake-dark.svg)
