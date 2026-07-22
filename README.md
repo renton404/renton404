@@ -5,7 +5,7 @@
 
 ### Frontend: 
 
-<img src="https://skillicons.dev/icons?i=css,tailwind,react,nextjs,angular" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,angular" alt="My Skills" />
 
 
 ### Backend:
