@@ -21,4 +21,4 @@
 
 ### Others:
 
-<img src="https://skillicons.dev/icons?i=vim,bash,linux,docker,nginx" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=linux,vim,bash,docker,nginx" alt="My Skills" />
