@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&width=435&lines=%24+whoami;Muhammad+Al-Tarsha+;Software+Engineer+%7C+Fullstack+Devloper+%7C+Tinkerer;cogito%2C+ergo+sum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7F7F7&width=620&lines=%24+whoami;Muhammad+Al-Tarsha+;Software+Engineer+%7C+Fullstack+Developer+%7C+Tinkerer;cogito%2C+ergo+sum)](https://git.io/typing-svg)
 
 <!--
 **renton404/renton404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
