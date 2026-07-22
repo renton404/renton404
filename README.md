@@ -1,24 +1,24 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&duration=3500&pause=500&color=907AA9&background=FF3A1400&width=620&lines=%24+whoami;Muhammad+Al-Tarsha+;Software+Engineer+%7C+Fullstack+Developer+%7C+Tinkerer;cogito%2C+ergo+sum)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono+&duration=3500&pause=500&color=907AA9&background=FF3A1400&width=620&lines=%24+whoami;Muhammad+Al-Tarsha+;Software+Engineer+%7C+Fullstack+Developer+%7C+Tinkerer;cogito%2C+ergo+sum" alt="Typing SVG" />
 
 ### Programming Languages : 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,go,java,js,ts,py,php)
+<img src="https://skillicons.dev/icons?i=c,cpp,go,java,js,ts,py,php" alt="My Skills" />
 
 ### Frontend: 
 
-![My Skills](https://skillicons.dev/icons?i=css,tailwind,react,nextjs,angular)
+<img src="https://skillicons.dev/icons?i=css,tailwind,react,nextjs,angular" alt="My Skills" />
 
 
 ### Backend:
 
 
-![My Skills](https://skillicons.dev/icons?i=laravel,nodejs,bun,deno)
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,bun,deno" alt="My Skills" />
 
 
 ### Databases: 
 
 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite" alt="My Skills" />
 
 ### other:
 
-![My Skills](https://skillicons.dev/icons?i=vim,bash,docker,linux,nginx)
+<img src="https://skillicons.dev/icons?i=vim,bash,docker,linux,nginx" alt="My Skills" />
