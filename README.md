@@ -5,7 +5,7 @@
 
 ### Frontend: 
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,angular" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,angular" alt="My Skills" />
 
 
 ### Backend:
@@ -17,8 +17,8 @@
 ### Databases: 
 
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="My Skills" />
 
-### other:
+### Others:
 
 <img src="https://skillicons.dev/icons?i=vim,bash,docker,linux,nginx" alt="My Skills" />
